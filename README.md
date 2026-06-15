@@ -216,6 +216,5 @@ Die generierte Dokumentation ist als technische Bestandsaufnahme gedacht. Sie ka
 
 Nicht sichtbare oder nicht konfigurierte Werte werden bewusst als solche gekennzeichnet. Das Skript soll keine Werte erfinden und keine Lücken kreativ auffüllen.
 
-## Repository
-
-GitHub: [GitHub Repository](<LINK_ZUM_REPOSITORY>)
+## Mehr Informationen:
+[Mehr Info](https://marcogriep.de/posts/opnsense-automatisch-dokumentieren-firewall-konfiguration-report/)
