@@ -216,6 +216,5 @@ The generated documentation is intended as a technical inventory. It may highlig
 
 Values that are not visible or not configured are intentionally marked as such. The script should not invent values or creatively fill documentation gaps.
 
-## Repository
-
-GitHub: [GitHub Repository](<LINK_ZUM_REPOSITORY>)
+## More Info
+[German Blogarticle about this](https://marcogriep.de/posts/opnsense-automatisch-dokumentieren-firewall-konfiguration-report/)
